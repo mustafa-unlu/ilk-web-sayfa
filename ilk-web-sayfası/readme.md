@@ -1,6 +1,6 @@
 # PATİKA.DEV HTML DESLERİ ÖDEV 1
 
-## Patika.dev Html Dersleri kapsamında Ödev1 projesidir.
+## Patika.dev Html Dersleri kapsamında Ödev1 ve Ödev2 projesidir
 
 ## About ME
 
